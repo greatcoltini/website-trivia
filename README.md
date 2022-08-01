@@ -1,2 +1,2 @@
 # website-trivia
- Trivia Website
+ Trivia Website -- for CS50 lab
